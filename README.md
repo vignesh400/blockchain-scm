@@ -1,7 +1,7 @@
 # A Blockchain Based Supply Chain Management System
 
 ## Hardhat Migration
-In light of Truffle and Ganache's sunset, the project has been migrated to Hardhat, and can be accessed from the `master` branche in this repository.
+In light of Truffle and Ganache's sunset, the project has been migrated to Hardhat, and can be accessed from the `master` branch in this repository.
 
 ## Dependencies
 Built upon one of the Truffle boxes; [drizzle](https://trufflesuite.com/boxes/), which helps integrate ReactJs with blockchain smart contracts.
