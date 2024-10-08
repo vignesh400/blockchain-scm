@@ -16,7 +16,7 @@ const HARDHAT_NETWORK_ID = '31337';
  * 
  * @author syuki
  */
-export class Dapp extends React.Component {
+export className= Dapp extends React.Component {
   constructor(props) {
     super(props);
 
@@ -111,6 +111,8 @@ export class Dapp extends React.Component {
       params: [{ chainId: chainIdHex }],
     });
     await this.initialize(this.state.selectedAddress);
+
+    
   }
 
   // This method checks if the selected network is Localhost:8545
